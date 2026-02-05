@@ -32,5 +32,14 @@ Folder: `Proyek_empat`
     - `brute_force_pin()`: Simulasi cracking PIN 4 angka.
     - `dictionary_attack()`: Simulasi serangan tebak kata sandi menggunakan kamus.
 
+### 5. Proyek Lima: Ransomware Simulator (OOP)
+Folder: `proyek_lima`
+- **Deskripsi:** Simulasi cara kerja Ransomware menggunakan konsep Object Oriented Programming (OOP).
+- **File Utama:** `ransomware_sim.py`
+- **Fungsi:** 
+    - Mendemonstrasikan enkripsi file sederhana (XOR/Base64 scheme).
+    - Mekanisme penguncian dan pembukaan kembali file menggunakan "kunci".
+    - **PENTING:** Hanya untuk tujuan edukasi di lingkungan terkontrol.
+
 ---
 *Repository ini dibuat untuk tujuan dokumentasi dan pembelajaran.*

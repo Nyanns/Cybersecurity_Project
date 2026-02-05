@@ -1,6 +1,5 @@
 import re
 import time
-import string
 
 print("=== PROJECT 4: PASSWORD STRENGTH & CRACK SIMULATION ===")
 
@@ -44,7 +43,7 @@ def cek_kekuatan(password):
         print("⚠️  KESIMPULAN: Password LEMAH! Gampang dihack.")
     else:
         print("🛡️  KESIMPULAN: Password KUAT.")
-        
+
     return score
 
 # --- BAGIAN 2: SIMULASI BRUTE FORCE (PIN) ---
