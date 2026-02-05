@@ -17,6 +17,8 @@ def hitung_hash(nama_file):
         # Kenapa rb? Karena kita mau baca isinya murni sebagai byte, bukan teks
         with open(nama_file, "rb") as f:
             # Baca file blok demi blok (biar RAM gak meledak kalau file besar)
+            # Versi Lambda: Cuma 2 baris. Memanfaatkan fungsi iter(Fungsi, Sentinel).
+            # Artinya: "Jalankan Fungsi terus menerus, berhenti kalau hasilnya sama dengan Sentinel (b"")."
             for byte_block in iter(lambda: f.read(4096), b""):
                 sha256_hash.update(byte_block)
         
