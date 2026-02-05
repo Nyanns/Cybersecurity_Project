@@ -16,9 +16,11 @@ Folder: `Proyek_dua`
 - **File Utama:** `scanner.py`
 - **Fungsi:** Memindai port yang terbuka pada target IP tertentu.
 
-### 3. Proyek Tiga
+### 3. Proyek Tiga: File Integrity Monitor
 Folder: `proyek_tiga`
-- *(Belum ada proyek saat ini / Dalam pengembangan)*
+- **Deskripsi:** Script demonstrasi konsep Hashing untuk mendeteksi perubahan pada file (Integritas Data).
+- **File Utama:** `integrity_check.py`
+- **Fungsi:** Menghitung hash SHA-256 dari sebuah file dan membandingkannya untuk mendeteksi modifikasi yang tidak sah.
 
 ---
 *Repository ini dibuat untuk tujuan dokumentasi dan pembelajaran.*
