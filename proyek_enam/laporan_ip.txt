@@ -1,0 +1,24 @@
+========================================
+[+] LAPORAN PELACAKAN IP
+========================================
+🏳️  Negara    : United States (US)
+🏙️  Kota      : Ashburn
+📍  Region    : Virginia
+📡  ISP       : Google LLC
+🏢  Org       : Google Public DNS
+⏰  Timezone  : America/New_York
+🌍  Koordinat : 39.03, -77.5
+========================================
+
+========================================
+[+] LAPORAN PELACAKAN IP
+========================================
+🏳️  Negara    : Hong Kong (HK)
+🏙️  Kota      : Hong Kong
+📍  Region    : Central and Western District
+📡  ISP       : Cloudflare, Inc
+🏢  Org       : APNIC and Cloudflare DNS Resolver project
+⏰  Timezone  : Asia/Hong_Kong
+🌍  Koordinat : 22.3193, 114.1693
+========================================
+
