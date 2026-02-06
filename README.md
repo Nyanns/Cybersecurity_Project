@@ -41,5 +41,14 @@ Folder: `proyek_lima`
     - Mekanisme penguncian dan pembukaan kembali file menggunakan "kunci".
     - **PENTING:** Hanya untuk tujuan edukasi di lingkungan terkontrol.
 
+### 6. Proyek Enam: IP Geolocation Tracker (OSINT)
+Folder: `proyek_enam`
+- **Deskripsi:** Script untuk melacak lokasi fisik dari alamat IP menggunakan API publik (OSINT).
+- **File Utama:** `ip_tracker.py`
+- **Fungsi:** 
+    - Melacak Negara, Kota, ISP, dan Koordinat dari sebuah IP Address.
+    - Menggunakan teknik **User-Agent Spoofing** untuk menghindari deteksi bot.
+    - Menghasilkan laporan otomatis ke file `laporan_ip.txt`.
+
 ---
 *Repository ini dibuat untuk tujuan dokumentasi dan pembelajaran.*
