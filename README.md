@@ -50,5 +50,14 @@ Folder: `proyek_enam`
     - Menggunakan teknik **User-Agent Spoofing** untuk menghindari deteksi bot.
     - Menghasilkan laporan otomatis ke file `laporan_ip.txt`.
 
+### 7. Proyek Tujuh: Cyber Dashboard GUI
+Folder: `proyek_tujuh`
+- **Deskripsi:** Aplikasi desktop berbasis GUI (Tkinter) untuk melacak lokasi IP dengan antarmuka yang ramah pengguna.
+- **File Utama:** `gui_dashboard.py`
+- **Fungsi:** 
+    - Antarmuka visual (GUI) untuk memasukkan IP Address.
+    - Menampilkan hasil pelacakan (Negara, ISP, Koordinat) dalam format yang rapi.
+    - Memberikan feedback visual (error/sukses) langsung di layar aplikasi.
+
 ---
 *Repository ini dibuat untuk tujuan dokumentasi dan pembelajaran.*
